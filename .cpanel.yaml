@@ -1,0 +1,5 @@
+---
+  DEPLOYPATH: /home/ijasenov/public_html/
+  SOURCE: /home/ijasenov/repositories/Sicoor_website 
+    
+    cp -R $SOURCE $DEPLOYPATH
